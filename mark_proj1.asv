@@ -1,0 +1,6 @@
+zplane(mp_firf)
+x = MPFIR_roots_UC
+xabs = abs(x);
+abs(MPFIR_roots_UC);
+
+for jj = 1:length
